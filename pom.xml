@@ -144,5 +144,10 @@
             </plugin>
         </plugins>
     </build>
-
+ <developers>
+  <developer>
+     <name>Alisson</name>
+     <email>alisson03.eb@gmail.com</email>
+  </developer>
+ </developers>
 </project>
